@@ -40,7 +40,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} });
 
 our @EXPORT = ( @{ $EXPORT_TAGS{'default'}} );
 
-our $VERSION = '1.0';
+our $VERSION = '1.01';
 
 # A constructor that's exported (horrors!) -- everything starts here
 
@@ -1031,7 +1031,7 @@ it would be relatively tough--which is why it's not documented.
 
 =head1 SOURCE REPOSITORY
 
-The source is available via git at L<http://github.com/treyharris/Text-FormatTable/>.
+The source is available via git at L<http://github.com/treyharris/Commands-Guarded/>.
 
 =head1 ACKNOWLEDGMENTS
 
